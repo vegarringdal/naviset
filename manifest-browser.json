@@ -1,0 +1,37 @@
+[
+  {
+    "absPath": "D:\\github\\route-xml\\dist\\app.js",
+    "browserPath": "./app.js",
+    "relativePath": "app.js",
+    "type": "js",
+    "webIndexed": true
+  },
+  {
+    "absPath": "D:\\github\\route-xml\\dist\\styles\\styles.0514e07bc.css",
+    "browserPath": "./styles/styles.0514e07bc.css",
+    "relativePath": "styles/styles.0514e07bc.css",
+    "type": "css",
+    "webIndexed": true
+  },
+  {
+    "absPath": "D:\\github\\route-xml\\dist\\dynamic\\src-routes-home.0d368f8f.js",
+    "browserPath": "./dynamic/src-routes-home.0d368f8f.js",
+    "relativePath": "dynamic/src-routes-home.0d368f8f.js",
+    "type": "js",
+    "webIndexed": false
+  },
+  {
+    "absPath": "D:\\github\\route-xml\\dist\\dynamic\\src-routes-equipment.34556f37.js",
+    "browserPath": "./dynamic/src-routes-equipment.34556f37.js",
+    "relativePath": "dynamic/src-routes-equipment.34556f37.js",
+    "type": "js",
+    "webIndexed": false
+  },
+  {
+    "absPath": "D:\\github\\route-xml\\dist\\dynamic\\src-routes-cable.053699775.js",
+    "browserPath": "./dynamic/src-routes-cable.053699775.js",
+    "relativePath": "dynamic/src-routes-cable.053699775.js",
+    "type": "js",
+    "webIndexed": false
+  }
+]
