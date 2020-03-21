@@ -1,1 +1,1 @@
-__fuse.bundle({12:function(e,t,n){var s=e(6);t.__esModule=!0;var l=e(7),r=e(8);let a=class extends HTMLElement{render(){return l.html`<section class="text-gray-200 p-2 text-center">🥺 this is not made yet 🙉</section>`}};a=s.d([r.customElement("cable-route")],a),t.default=a}});
+__fuse.bundle({8:function(e,t,n){var s=e(11);t.__esModule=!0;var l=e(10),r=e(12);let a=class extends HTMLElement{render(){return l.html`<section class="text-gray-200 p-2 text-center">🥺 this is not made yet 🙉</section>`}};a=s.d([r.customElement("cable-route")],a),t.default=a}});
