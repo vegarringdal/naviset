@@ -2,14 +2,50 @@
 <html lang="en">
     <head>
         <meta charset="UTF-8" />
-        <meta
-            name="viewport"
-            content="width=device-width, initial-scale=1, maximum-scale=5"
-        />
+        <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=5" />
         <meta http-equiv="X-UA-Compatible" content="ie=edge" />
-        <meta name="Description" content="Naviworks search set generator">
+        <meta name="Description" content="Naviworks search set generator" />
 
         <title>Naviworks search set generator</title>
+        <script>
+            // so it works in edge
+
+            if (this.customElements) {
+                try {
+                    // feature detect browsers that "forgot" 🙄 to implement built-in extends
+                    customElements.define('built-in', document.createElement('p').constructor, {
+                        extends: 'p'
+                    });
+                } catch (_) {
+                    // only WebKit or Safari
+                    document.write(
+                        '<script src="//unpkg.com/@ungap/custom-elements-builtin"><\x2fscript>'
+                    );
+                }
+            } else {
+                // only legacy browsers
+
+                if (!window.globalThis) {
+                    window.globalThis = window;
+                }
+
+                if (!('isConnected' in Node.prototype)) {
+                    Object.defineProperty(Node.prototype, 'isConnected', {
+                        get() {
+                            return (
+                                !this.ownerDocument ||
+                                !(
+                                    this.ownerDocument.compareDocumentPosition(this) &
+                                    this.DOCUMENT_POSITION_DISCONNECTED
+                                )
+                            );
+                        }
+                    });
+                }
+
+                document.write('<script src="//unpkg.com/document-register-element"><\x2fscript>');
+            }
+        </script>
         <link href="./styles/styles.0514e07bc.css" rel="stylesheet"/> <script type="text/javascript" src="./app.js"></script>
     </head>
     <body>
