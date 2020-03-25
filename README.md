@@ -1,5 +1,5 @@
 # naviset
-homepage for naviworks serach set generator (hobby project)
+homepage for naviworks search set generator (hobby project)
 
 
  https://vegarringdal.github.io/naviset/
