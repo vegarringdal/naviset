@@ -7,30 +7,30 @@
     "webIndexed": true
   },
   {
-    "absPath": "D:\\github\\route-xml\\dist\\styles\\styles.0514e07bc.css",
-    "browserPath": "./styles/styles.0514e07bc.css",
-    "relativePath": "styles/styles.0514e07bc.css",
+    "absPath": "D:\\github\\route-xml\\dist\\styles\\styles.06f4bd4c.css",
+    "browserPath": "./styles/styles.06f4bd4c.css",
+    "relativePath": "styles/styles.06f4bd4c.css",
     "type": "css",
     "webIndexed": true
   },
   {
-    "absPath": "D:\\github\\route-xml\\dist\\dynamic\\src-routes-home.0a8208f3.js",
-    "browserPath": "./dynamic/src-routes-home.0a8208f3.js",
-    "relativePath": "dynamic/src-routes-home.0a8208f3.js",
+    "absPath": "D:\\github\\route-xml\\dist\\dynamic\\src-routes-home.06f4bd4c.js",
+    "browserPath": "./dynamic/src-routes-home.06f4bd4c.js",
+    "relativePath": "dynamic/src-routes-home.06f4bd4c.js",
     "type": "js",
     "webIndexed": false
   },
   {
-    "absPath": "D:\\github\\route-xml\\dist\\dynamic\\src-routes-equipment.7d087a76.js",
-    "browserPath": "./dynamic/src-routes-equipment.7d087a76.js",
-    "relativePath": "dynamic/src-routes-equipment.7d087a76.js",
+    "absPath": "D:\\github\\route-xml\\dist\\dynamic\\src-routes-equipment.0a6453ad.js",
+    "browserPath": "./dynamic/src-routes-equipment.0a6453ad.js",
+    "relativePath": "dynamic/src-routes-equipment.0a6453ad.js",
     "type": "js",
     "webIndexed": false
   },
   {
-    "absPath": "D:\\github\\route-xml\\dist\\dynamic\\src-routes-cable.07e13d1a8.js",
-    "browserPath": "./dynamic/src-routes-cable.07e13d1a8.js",
-    "relativePath": "dynamic/src-routes-cable.07e13d1a8.js",
+    "absPath": "D:\\github\\route-xml\\dist\\dynamic\\src-routes-cable.06f4bd4c.js",
+    "browserPath": "./dynamic/src-routes-cable.06f4bd4c.js",
+    "relativePath": "dynamic/src-routes-cable.06f4bd4c.js",
     "type": "js",
     "webIndexed": false
   }

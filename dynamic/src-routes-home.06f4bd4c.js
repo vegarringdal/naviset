@@ -1,0 +1,1 @@
+__fuse.bundle({10:function(e,t,l){var s=e(6);t.__esModule=!0;var n=e(7),c=e(8);let o=class extends HTMLElement{render(){return n.html`<section class="flex flex-col items-center text-gray-200"><h1 class="text-3xl p-2 border-b">Welcome</h1><div class=m-2>Select module in top left menu</div></section>`}};o=s.d([c.customElement("home-route")],o),t.default=o}});
